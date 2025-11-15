@@ -1,0 +1,7 @@
+name: "red_alert_music"
+displayName: "Red Alert Music"
+author: "DaemonLife"
+version: "1.0"
+description: "ALPHA! This mod replaces all music in the game with soundtracks from Red Alert 1, 2, 3, and also from first C&C version"
+minGameVersion: "152"
+hidden: false 
